@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/Users/zjun/Sectools/exp/金和/金和OAC6后台越权敏感文件遍历.py'
+let g:netrw_dirhist_2='/Users/zjun/Downloads/靶标'
+let g:netrw_dirhist_1='/Users/zjun/Downloads'
